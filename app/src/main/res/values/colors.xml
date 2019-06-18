@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="attractivePlaces">#FF4081</color>
+    <color name="parkGarden">#A5D6A7</color>
+    <color name="hotel">#64FFDA</color>
+    <color name="foods">#FFD180</color>
+</resources>

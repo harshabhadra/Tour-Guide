@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#BBDEFB"
+    android:orientation="vertical"
+
+    tools:context="com.example.android.tourguideapp.MainActivity">
+
+    <TextView
+        android:id="@+id/attractive_places"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/kanchanjunga"
+        android:gravity="center"
+        android:text="@string/attractive_places"
+        android:textAllCaps="true"
+        android:textColor="#FFFFFF"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/parks_gardens"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="8dp"
+        android:layout_weight="1"
+        android:background="@drawable/gangamaya_park"
+        android:gravity="center"
+        android:text="@string/park_gardens"
+        android:textAllCaps="true"
+        android:textColor="#FFFFFF"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/hotels_resturant"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="8dp"
+        android:layout_weight="1"
+        android:background="@drawable/gatty_cafe"
+        android:gravity="center"
+        android:text="@string/hotel_resturant"
+        android:textColor="#FFFFFF"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/foods"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="8dp"
+        android:layout_weight="1"
+        android:background="@drawable/naga_platter"
+        android:gravity="center"
+        android:text="@string/foods"
+        android:textColor="#FFFFFF"
+        android:textSize="25sp" />
+
+
+</LinearLayout>

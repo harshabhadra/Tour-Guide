@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">Darjeeling Tourisium</string>
+    <!--HINT TEXT FOR ACTIVITY MAILXML-->
+    <!-- HINT TEXT FOR 1ST TEXTVIEW-->
+    <string name="attractive_places">Attractive Places</string>
+    <!-- HINT TEXT FOR TEXTVIEW 2ND-->
+    <string name="park_gardens">Parks and Gardens</string>
+    <!-- HINT TEXT FOR 3RD TEXTVIEW-->
+    <string name="hotel_resturant">Resturants/Hotels</string>
+    <!-- HINT TEXT FOR 4TH TEXTVIEW-->
+    <string name="foods">Foods</string>
+    <!-- HINT TEXTS FOR pLACESaCTIVITY.JAVA -->
+    <!-- HINT TEXT FOR KANCHANJUNGA -->
+    <string name="kanchanjunga">Kanchanjunga</string>
+    <!-- HINT TEXT FOR PLACE DESCRIPTION -->
+    <string name="kanchanjunga_description">The third highest peak of Himalaya. This is  a true example of the beayty of nature</string>
+    <!-- HINT TEXT FOR TINCHULEY VILLAGE -->
+    <string name="tinchuley_village">Tinchuley Village</string>
+    <!-- HINT TEXT FOR TINCHULEY DESCRIPTION-->
+    <string name="tinchuley_description">One of the best atractive place of Darjeeling. This place is an example of the beauty of nature</string>
+    <!-- HINT TEXT FOR TEA GARDEN-->
+    <string name="tea_garden">Tea Garden</string>
+    <!-- HINT TEXT FOR TEA GARDEN DESCRIPTION-->
+    <string name="te_garden_description">One of the best atractive place of Darjeeling. This place is an example of the beauty of nature</string>
+    <!-- HINT TEXT FOR OBSEVATORY HILL -->
+    <string name="obsevatory">Observatory Hill</string>
+    <!-- HINT TEXT FOR DESCRIPTION-->
+    <string name="obsevatory_description">One of the best atractive place of Darjeeling. This place is an example of the beauty of nature</string>
+    <!-- HINT TEXT FOR SUNTALEKHOLA-->
+    <string name="suntalekhola">Suntalekhola</string>
+    <!-- HINT TEXTS FOR DESCRIPTION-->
+    <string name="suntalekhola_description">One of the best atractive place of Darjeeling. This place is an example of the beauty of nature</string>
+    <!-- HINT TEXT FOR CHATTAKPUR-->
+    <string name="chattakpur">Chattakpur</string>
+    <!-- HINT TEXT FOR DESCRIPTION-->
+    <string name="chattakpur_description">One of the best atractive place of Darjeeling. This place is an example of the beauty of nature</string>
+    <!-- HINT TEXT FOR BINDU DAM-->
+    <string name="bindu_dam">Bindu Dam</string>
+    <!-- HINT TEXT FOR DESCRIPTION-->
+    <string name="bindudam_description">One of the best atractive place of Darjeeling. This place is an example of the beauty of nature</string>
+    <!-- HINT TEXT FOR ST MARYS HILL-->
+    <string name="st_marrys_hill">St. Marrys Hill</string>
+    <!-- HINT TEXT FOR DESCRIPTION-->
+    <string name="ST_MARRYS_DESCRIPTION">One of the best atractive place of Darjeeling. This place is an example of the beauty of nature</string>
+    <!-- HINT TEXT FOR SENCHAL LAKE-->
+    <string name="SENCHAL_LAKE">Senchal Lake</string>
+    <!-- HINT TEXT FOR DESCRIPTION-->
+    <string name="senchal_lake_description">One of the best atractive place of Darjeeling. This place is an example of the beauty of nature</string>
+    <!-- HINT TEXTS FOR PARKACTIVITY-->
+    <!-- HINT TEXT FOR NIGHTANGLE PARK -->
+    <string name="nightangle_park">Shrubbery Nightangle Park</string>
+    <!-- HINT TEXT FOR DESCRIPTION-->
+    <string name="nightangle_park_description">One of the best atractive place of Darjeeling. This place is an example of the beauty of nature</string>
+    <!-- HINT TEXT FOR SURYA SEN PARK-->
+    <string name="surya_sen_park">Surya Sen Park</string>
+    <!-- HINT TEXT FOR DESCRIPTION-->
+    <string name="surya_sen_description">One of the best atractive place of Darjeeling. This place is an example of the beauty of nature</string>
+    <!-- HINT TEXT FOR MADHUBAN PARK-->
+    <string name="madhuban_park">Madhuban Park</string>
+    <!-- HINT TEXT FOR DESCRIPTION-->
+    <string name="madhubanpark_description">One of the best atractive place of Darjeeling. This place is an example of the beauty of nature</string>
+    <!-- HINT TEXT FOR GANGAMAYA PARK-->
+    <string name="gangamaya_park">Gangamaya Park</string>
+    <!-- HINT TEXT FOR DESCRIPTION-->
+    <string name="gangamaya_description">One of the best atractive place of Darjeeling. This place is an example of the beauty of nature</string>
+    <!-- HINT TEXT FOR NEORA VALLEY NATIONAL PARK -->
+    <string name="national_park">Neora Valley National Park</string>
+    <!-- HINT TEXT FOR DESCRIPTION-->
+    <string name="national_park_description">One of the best atractive place of Darjeeling. This place is an example of the beauty of nature</string>
+    <!-- HINT TEXT FOR ROCK GARDEN-->
+    <string name="ROCK_GARDEN">Rock Garden</string>
+    <!-- HINT TEXT FOR DESCRIPTION-->
+    <string name="rock_garden_description">One of the best atractive place of Darjeeling. This place is an example of the beauty of nature</string>
+    <!-- HINT TEXT FOR BOTANICAL GARDEN-->
+    <string name="Botanical_garden">Lloyd Botanical Garden</string>
+    <!-- HINT TEXT FOR DESCRIPTION-->
+    <string name="botanical_garden_description">One of the best atractive place of Darjeeling. This place is an example of the beauty of nature</string>
+    <!-- HINT TEXT FOR HOTELACTIVITY-->
+    <!-- HINT TEXT FOR SONAM'S KITCHEN-->
+    <string name="sonams_kitchen">Sonams Kitchen</string>
+    <!-- HINT TEXT FOR DESCRIPTION -->
+    <string name="sonams_description">One of the best place to eat delicious foods and drink in Darjeeling</string>
+    <!-- HINT TEXT FOR GATTY'S CAFE-->
+    <string name="gattys_caffe">Gattys Caffe</string>
+    <!-- HINT TEXT FOR DESCRIPTION-->
+    <string name="gattys_caffe_descripton">One of the best place to eat delicious foods and drinks in Darjeeling</string>
+    <!-- HINT TEXT FOR KUNGA RESTURANT-->
+    <string name="kunga_resturant">Kunga Restaurant</string>
+    <!-- HINT TEXT FOR DESCRIPTION-->
+    <string name="kunga_description">One of the best place to eat delicious foods and drinks in Darjeeling</string>
+    <!-- HINT TEXT FOR NATHMULL TEA-->
+    <string name="nathmull_tea">Nathmull Tea</string>
+    <!-- HINT TEXT FOR DESCRIPTION-->
+    <string name="nathmull_decription">One of the best place to eat delicious foods and drinks in Darjeeling</string>
+    <!-- HINT TEXT FOR gLENARY'S-->
+    <string name="glenarys">Glenarys</string>
+    <!-- HINT TEXT FOR DESCRIPTION-->
+    <string name="glenarys_description">One of the best place to eat delicious foods and drinks in Darjeeling</string>
+    <!-- HINT TEXT FOR TOM & JERRY'S-->
+    <string name="tom_jerry">Tom and Jerry</string>
+    <!-- HINT TEXT FOR DESCRIPTION-->
+    <string name="tom_jerry_description">One of the best place to eat delicious foods and drinks in Darjeeling</string>
+    <!-- HINT TEXT FOR KEVENTERS-->
+    <string name="keventers">Keventers</string>
+    <!-- HINT TEXT FOR DESCRIPTION-->
+    <string name="hotel_description">One of the best place to eat delicious foods and drinks in Darjeeling</string>
+    <!-- HINT TEXT FOR THE PARK-->
+    <string name="park_restaurant">The Park Restaurant</string>
+    <!-- HINT TEXT FOR HOTEL LUNAR-->
+    <string name="hotel_lunar">Hotel Lunar</string>
+    <!-- HINT TEXT FOR HIMALAYA'S JAVA CAFE-->
+    <string name="java_cafe">HImalayas Java Cafe</string>
+    <!-- HINT TEXT FOR JOYE'S PUB-->
+    <string name="joys_pub">Joyes Pub</string>
+    <!-- HINT TEXTS FOR FOODACTIVITY-->
+    <!-- HINT TEXT FOR MOMOS-->
+    <string name="momos">Momos</string>
+    <!-- HINT TEXT FOR FOOF DESCRIPTION-->
+    <string name="food_description">This is one of the best foos item of Daejeeling</string>
+    <!-- HIN TEXT FOR THUKPA-->
+    <string name="thukpa">Thukpa</string>
+    <!-- HINT TEXT FOR ALU DAM-->
+    <string name="alu_dam">Alu Dam</string>
+    <!-- HINT TEXT FOR nEPALI THALI-->
+    <string name="nepali_thali">Nepali Thali</string>
+    <!-- HINT TEXT FOR dALLE-->
+    <string name="dalle">Dalle</string>
+    <!-- HINT TEXT FOR KAKRA KO ACHAR-->
+    <string name="kakra_ko_achar">Kakara Ko Achar</string>
+    <!-- HINT TEXT FOR NAGA CUISINE-->
+    <string name="naga_cuisine">Naga Cuisine</string>
+    <!-- HINT TEXT FOR NAGA PLATTER-->
+    <string name="naga_platter">Naga Platter</string>
+
+
+</resources>
